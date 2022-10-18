@@ -5,7 +5,7 @@ Segundo projeto do curso da rocketseat
 
 Projeto construido no curso Explorer
 
-[Clique aqui para acessar](https://rafaelmarcondes.github.io/projeto01_explorer_rocketseat/)
+[Clique aqui para acessar](https://rafaelmarcondes.github.io/projeto02_explorer_rocketseat/)
 
 ## tecnologias
 
